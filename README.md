@@ -4,6 +4,7 @@ This code selects wide binary stars from the El Badry+ catalog ([2018MNRAS.480.4
 ## Prerequisites
 - NumPy
 - Pandas
+- os
 - Matplotlib
 - Astroquery
 - Astropy
